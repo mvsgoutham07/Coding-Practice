@@ -33,7 +33,7 @@ public class BubbleSort {
             arr[i] = sc.nextInt();
         }
         bubbleSort(arr);
-        System.out.print("Sorter Array : ");
+        System.out.print("Sorted Array : ");
         display(arr);
         sc.close();
     }
