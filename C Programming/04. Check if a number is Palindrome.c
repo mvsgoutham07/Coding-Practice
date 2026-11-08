@@ -1,3 +1,4 @@
+/* Given a number ‘n’, find out whether it is a Palindrome or not. */
 #include <stdio.h>
 int reverse_digits(int num)
 {
